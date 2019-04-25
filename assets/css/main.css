@@ -1,0 +1,64 @@
+html{
+    height: 100%;
+    width: auto;
+}
+body{
+    height: 100%;
+    width: auto;
+    background-image: url(../images/diagonal-squares.png);
+}
+#headline h1 {
+    color: white;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 90px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 5px solid white;
+    border-radius: 20px;
+    background-image: url("/assets/images/darkGrey.png");
+    box-shadow: -0px 5px 20px 5px black;
+}
+#buttons a{
+    color: lightblue;
+    /* width:170px; */
+    font-size: 20px;
+    margin: 0;
+    float: center;
+    /* margin: 5px 0px 5px 0px; */
+    /* align-content: center; */
+    background-image: url("/assets/images/darkGrey.png");
+    border: 2px solid white;
+    border-radius: 20px;
+    box-shadow: -0px 5px 20px 5px black;
+}
+#me{
+    width: 310px;
+    height: auto;
+    margin: 30px 0px 30px 20px;
+    z-index: 1;
+    box-shadow: -0px 2px 25px 2px black;
+}
+#picAndBio {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 5px solid white;
+    border-radius: 20px;
+    background-image: url("/assets/images/darkGrey.png");
+    box-shadow: -0px 5px 20px 5px black;
+}
+#bio p{
+margin: 20px 20px 20px 0px;
+    color: white;
+    font-size: 25px;
+    }
+#projects {
+    margin: 20px;
+    color: lightblue;
+    font-size: 30px;
+    text-align: center;
+    border: 5px solid white;
+    border-radius: 20px;
+    background-image: url("/assets/images/darkGrey.png");
+}
