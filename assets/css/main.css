@@ -60,3 +60,11 @@ margin: 20px 20px 20px 0px;
     background-image: url("../images/darkGrey.png");
     box-shadow: -0px 5px 20px 5px black;
 }
+#projects a {
+    color: white;
+    font-size: 50px;
+}
+#projects p {
+    color: lightblue;
+    font-size: 20px;
+}
