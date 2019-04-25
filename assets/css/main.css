@@ -10,7 +10,7 @@ body{
 #headline h1 {
     color: white;
     text-align: center;
-    letter-spacing: 10px;
+    /* letter-spacing: 10px; */
     font-size: 90px;
     padding: 20px;
     margin-top: 20px;
