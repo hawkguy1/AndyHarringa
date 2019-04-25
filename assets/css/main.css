@@ -58,11 +58,12 @@ margin: 20px 20px 20px 0px;
     }
 #projects {
     margin: 20px;
+    background-image: url("/assets/images/darkGrey.png");
     color: lightblue;
     font-size: 30px;
     text-align: center;
     border: 5px solid white;
     border-radius: 20px;
     /* background-image: url("/assets/images/darkGrey.png"); */
-    background-color: darkgrey;
+    /* background-color: darkgrey; */
 }
